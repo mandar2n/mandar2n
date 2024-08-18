@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=orange&height=300&section=header&text=Kyuree's%20Space&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Kyuree's%20Space&fontSize=90)
 
 ## Hi there 👋
 
